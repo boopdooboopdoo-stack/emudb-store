@@ -6,15 +6,21 @@
     "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/ducklife1.swf"
   },
     {
-    "name": "Duck Life",
-    "id": "Duck Life",
+    "name": "Papas Burgeria",
+    "id": "Papas Burgeria",
     "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/ducklife1.swf"
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Papas Burgeria.swf"
   },
     {
-    "name": "Duck Life",
-    "id": "Duck Life",
+    "name": "Papas Pizzeria",
+    "id": "Papas Pizzeria",
     "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/ducklife1.swf"
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Papas Pizzeria.swf"
+  },
+      {
+    "name": "Hapy Wheels",
+    "id": "Papas Pizzeria",
+    "coreSet": "flash",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Happy Wheels.swf"
   }
 ]
