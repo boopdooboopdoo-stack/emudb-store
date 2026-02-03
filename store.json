@@ -1,0 +1,20 @@
+[
+  {
+    "name": "2048 (NES)",
+    "id": "2048-nes",
+    "coreSet": "fceumm",
+    "url": "https://cdn.jsdelivr.net/gh/p1ratelife/2048-nes/2048.nes"
+  },
+  {
+    "name": "Blade Buster",
+    "id": "blade-buster-nes",
+    "coreSet": "fceumm",
+    "url": "https://cdn.jsdelivr.net/gh/taizou/blade-buster/bin/BladeBuster.nes"
+  },
+  {
+    "name": "Anguna (GBA)",
+    "id": "anguna-gba",
+    "coreSet": "gba",
+    "url": "https://github.com/libretro/libretro-database/raw/master/metadat/goodtools/Nintendo%20Game%20Boy%20Advance/Anguna.gba"
+  }
+]
