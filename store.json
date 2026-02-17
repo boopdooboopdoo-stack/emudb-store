@@ -3,7 +3,7 @@
     "name": "Duck Life",
     "id": "Duck Life",
     "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/ducklife1.swf"
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Duck Life.swf"
   },
     {
     "name": "Papas Burgeria",
@@ -19,7 +19,7 @@
   },
       {
     "name": "Happy Wheels",
-    "id": "Papas Pizzeria",
+    "id": "Happy Wheels",
     "coreSet": "flash",
     "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Happy Wheels.swf"
   }
