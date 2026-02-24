@@ -1,26 +1,278 @@
 [
   {
-    "name": "Duck Life",
-    "id": "Duck Life",
-    "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Duck Life.swf"
+    "name": "alien-hominid",
+    "id": "alien-hominid",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/alien-hominid.zip"
   },
-    {
-    "name": "Papas Burgeria",
-    "id": "Papas Burgeria",
-    "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Papas Burgeria.swf"
+  {
+    "name": "basketballlegends",
+    "id": "basketballlegends",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/basketballlegends.zip"
   },
-    {
-    "name": "Papas Pizzeria",
-    "id": "Papas Pizzeria",
-    "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Papas Pizzeria.swf"
+  {
+    "name": "basketballstars",
+    "id": "basketballstars",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/basketballstars.zip"
   },
-      {
-    "name": "Happy Wheels",
-    "id": "Happy Wheels",
-    "coreSet": "flash",
-    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Happy Wheels.swf"
+  {
+    "name": "blastronaut",
+    "id": "blastronaut",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/blastronaut.zip"
+  },
+  {
+    "name": "btd4",
+    "id": "btd4",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/btd4.zip"
+  },
+  {
+    "name": "Cell Machine",
+    "id": "Cell Machine",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Cell Machine.zip"
+  },
+  {
+    "name": "crossyroad",
+    "id": "crossyroad",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/crossyroad.zip"
+  },
+  {
+    "name": "curvy-road",
+    "id": "curvy-road",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/curvy-road.zip"
+  },
+  {
+    "name": "dadish",
+    "id": "dadish",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/dadish.zip"
+  },
+  {
+    "name": "dangerous-roads",
+    "id": "dangerous-roads",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/dangerous-roads.zip"
+  },
+  {
+    "name": "Deepest Sword",
+    "id": "Deepest Sword",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Deepest Sword.zip"
+  },
+  {
+    "name": "drift-boss",
+    "id": "drift-boss",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/drift-boss.zip"
+  },
+  {
+    "name": "dune",
+    "id": "dune",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/dune.zip"
+  },
+  {
+    "name": "economical",
+    "id": "economical",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/economical.zip"
+  },
+  {
+    "name": "grimstone",
+    "id": "grimstone",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/grimstone.zip"
+  },
+  {
+    "name": "happy-sheepies",
+    "id": "happy-sheepies",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/happy-sheepies.zip"
+  },
+  {
+    "name": "hotline-miami",
+    "id": "hotline-miami",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/hotline-miami.zip"
+  },
+  {
+    "name": "karlson",
+    "id": "karlson",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/karlson.zip"
+  },
+  {
+    "name": "last-chess-standing",
+    "id": "last-chess-standing",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/last-chess-standing.zip"
+  },
+  {
+    "name": "Lost Settlers",
+    "id": "Lost Settlers",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Lost Settlers.zip"
+  },
+  {
+    "name": "Mario64webgl-main",
+    "id": "Mario64webgl-main",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Mario64webgl-main.zip"
+  },
+  {
+    "name": "Mini World",
+    "id": "Mini World",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Mini World.zip"
+  },
+  {
+    "name": "one-hit-kill",
+    "id": "one-hit-kill",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/one-hit-kill.zip"
+  },
+  {
+    "name": "openWheels-main",
+    "id": "openWheels-main",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/openWheels-main.zip"
+  },
+  {
+    "name": "paperio",
+    "id": "paperio",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/paperio.zip"
+  },
+  {
+    "name": "Red Handed",
+    "id": "Red Handed",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Red Handed.zip"
+  },
+  {
+    "name": "retro-highway",
+    "id": "retro-highway",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/retro-highway.zip"
+  },
+  {
+    "name": "rocket-clash-3d",
+    "id": "rocket-clash-3d",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/rocket-clash-3d.zip"
+  },
+  {
+    "name": "Rolling Sky",
+    "id": "Rolling Sky",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Rolling Sky.zip"
+  },
+  {
+    "name": "run3",
+    "id": "run3",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/run3.zip"
+  },
+  {
+    "name": "scale-the-depths",
+    "id": "scale-the-depths",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/scale-the-depths.zip"
+  },
+  {
+    "name": "Slimeow Game",
+    "id": "Slimeow Game",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Slimeow Game.zip"
+  },
+  {
+    "name": "slope",
+    "id": "slope",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/slope.zip"
+  },
+  {
+    "name": "SonicManiaWeb-main",
+    "id": "SonicManiaWeb-main",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/SonicManiaWeb-main.zip"
+  },
+  {
+    "name": "Station 141",
+    "id": "Station 141",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Station 141.zip"
+  },
+  {
+    "name": "Super Mega Power Golf 3D",
+    "id": "Super Mega Power Golf 3D",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Super Mega Power Golf 3D.zip"
+  },
+  {
+    "name": "the-impossible-game",
+    "id": "the-impossible-game",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/the-impossible-game.zip"
+  },
+  {
+    "name": "Time and Again",
+    "id": "Time and Again",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Time and Again.zip"
+  },
+  {
+    "name": "tombofthemask",
+    "id": "tombofthemask",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/tombofthemask.zip"
+  },
+  {
+    "name": "vex4",
+    "id": "vex4",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/vex4.zip"
+  },
+  {
+    "name": "vex5",
+    "id": "vex5",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/vex5.zip"
+  },
+  {
+    "name": "vex6",
+    "id": "vex6",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/vex6.zip"
+  },
+  {
+    "name": "Void Golf",
+    "id": "Void Golf",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Void Golf.zip"
+  },
+  {
+    "name": "Warpswap",
+    "id": "Warpswap",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/Warpswap.zip"
+  },
+  {
+    "name": "winding-road",
+    "id": "winding-road",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/winding-road.zip"
+  },
+  {
+    "name": "yokai-dungeon",
+    "id": "yokai-dungeon",
+    "coreSet": "emscripten",
+    "url": "https://cdn.jsdelivr.net/gh/boopdooboopdoo-stack/emudb-store@master/games/yokai-dungeon.zip"
   }
 ]
